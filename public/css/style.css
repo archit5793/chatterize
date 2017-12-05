@@ -1,0 +1,27 @@
+#users{
+	/*height: 100vh;*/
+	overflow: scroll;
+	padding-left: 0px;
+}
+#message-display{
+	height: 70vh !important;
+	overflow: scroll;
+	border-left:2px solid slateblue;
+
+}
+.navbar{
+	margin-bottom: 0;
+}
+.users-list{
+	width:200px !important;
+}
+.btn{
+	border-radius:0px;
+}
+input{
+	border-radius:0px;
+}
+textarea{
+	border-radius:0px !important;
+
+}
